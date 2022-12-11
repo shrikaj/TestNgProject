@@ -12,7 +12,10 @@ public class verifySignup extends baseClass  {
 @Test	
 	public void Signup() throws IOException, InterruptedException{
 
-		
+		//just for git check up
+	//1
+	//2
+	//3
 		LoginPageObject obj2=new LoginPageObject(driver);
 		obj2.clickOnTry().click();
 		Thread.sleep(3000);
