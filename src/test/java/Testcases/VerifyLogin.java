@@ -13,9 +13,8 @@ import Resources.baseClass;
 public class VerifyLogin extends baseClass {
 	@Test
 	public void login() throws IOException {
-		
-		
-		
+	
+	//This is just demo for GIT	
 		
 		LoginPageObject run =new LoginPageObject(driver);
 		
